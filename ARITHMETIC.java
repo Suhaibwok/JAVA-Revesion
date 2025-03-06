@@ -4,12 +4,12 @@ public class ARITHMETIC {
         int B = 10;
         char C = 'A';
         float D = 110.123f;
-        boolean E = true;
-
+        String E ="true";
         System.out.println(A+B);
         System.out.println(A-D);
         System.out.println(B+C);
         System.out.println(A/D);
-        System.out.println(A%D);
+        System.out.println(B%C);
+        System.out.println(E+A);
     }
 }
