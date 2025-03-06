@@ -41,5 +41,3 @@ Example: short s = 1000;
 
 long: Stores large integers.
 Example: long distance = 123456789L;  */
-
-/*
