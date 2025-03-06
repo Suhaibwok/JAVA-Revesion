@@ -16,3 +16,30 @@ public class VARIABLES {
     }
 }
 
+/*  Primitive Types
+
+int: Stores integers (whole numbers).
+Example: int age = 25;
+
+double: Stores floating-point numbers (decimals).
+Example: double price = 19.99;
+
+float: Stores floating-point numbers (decimals) with less precision.
+Example: float pi = 3.14f;
+
+char: Stores a single character.
+Example: char grade = 'A';
+
+boolean: Stores true or false.
+Example: boolean isActive = true;
+
+byte: Stores small integers (-128 to 127).
+Example: byte b = 100;
+
+short: Stores small integers (-32,768 to 32,767).
+Example: short s = 1000;
+
+long: Stores large integers.
+Example: long distance = 123456789L;  */
+
+/*
